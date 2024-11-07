@@ -1,2 +1,2 @@
 # motsal
-A data analysis of eye movements 
+A data analysis of saccadic eye movements. 
